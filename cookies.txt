@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	34XChEq9LcsfR5oYCr2kndwj4_00Pg2.3EUCkjEqPTU-1751873305-1.0.1.1-7ktVAqLmtWSblz1C1ekmYA2pm0YxENreL0o1W4F9yqfUTlnpVU1GdcZeSDiHucju
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	nTVr9HQL6d01gq1M.MHQNbFpQYn66P0xm08Q_.Givyk-1751873305859-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.hardifinserv.in	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

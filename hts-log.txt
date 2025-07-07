@@ -1,0 +1,526 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 07 Jul 2025 12:57:26 at https://www.hardifinserv.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hardifinserv.in/ -O1 "E:\Hardi\Hardi Finserv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:57:48	Error: 	"Method Not Allowed" (405) at link https://www.hardifinserv.in/xmlrpc.php (from https://www.hardifinserv.in/)
+12:58:26	Warning: 	Moved Permanently for www.hardifinserv.in/robots.txt
+12:58:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/robots.txt and https://www.hardifinserv.in/robots.txt
+12:58:26	Warning: 	Warning moved treated for www.hardifinserv.in/robots.txt (real one is https://www.hardifinserv.in/robots.txt)
+12:58:26	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=03D215B62E2F50F9087D089473C8EC11
+12:58:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=03D215B62E2F50F9087D089473C8EC11 and https://www.hardifinserv.in/?wordfence_lh=1&hid=03D215B62E2F50F9087D089473C8EC11
+12:58:26	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=03D215B62E2F50F9087D089473C8EC11 to https://www.hardifinserv.in/?wordfence_lh=1&hid=03D215B62E2F50F9087D089473C8EC11
+12:58:26	Error: 	"Bad Request" (400) at link https://www.hardifinserv.in/wp-admin/admin-ajax.php (from https://www.hardifinserv.in/)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/themes/consulting/assets/css/images/pattern_3.png (from https://www.hardifinserv.in/wp-content/themes/consulting/assets/css/layouts/layout_zurich/main.css?ver=4.0.2)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/themes/consulting/assets/css/images/pattern_4.png (from https://www.hardifinserv.in/wp-content/themes/consulting/assets/css/layouts/layout_zurich/main.css?ver=4.0.2)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/images/pattern_3.png (from https://www.hardifinserv.in/wp-content/uploads/stm_uploads/skin-custom.css?ver=127955)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/images/pattern_4.png (from https://www.hardifinserv.in/wp-content/uploads/stm_uploads/skin-custom.css?ver=127955)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/images/transparent.png (from https://www.hardifinserv.in/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.11)
+13:00:55	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/assets/transparent.png (from https://www.hardifinserv.in/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.11)
+13:00:55	Warning: 	Moved Permanently for https://www.hardifinserv.in/origin=https://
+13:00:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.hardifinserv.in/origin=https:// and https://www.hardifinserv.in/origin=https:/
+13:00:55	Warning: 	File has moved from https://www.hardifinserv.in/origin=https:// to https://www.hardifinserv.in/origin=https:/
+13:00:55	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=03D215B62E2F50F9087D089473C8EC11
+13:00:55	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=03D215B62E2F50F9087D089473C8EC11 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D03D215B62E2F50F9087D089473C8EC11
+13:00:56	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3858
+13:00:56	Warning: 	File has moved from https://www.hardifinserv.in/?p=3858 to https://www.hardifinserv.in/invest-online/
+13:00:56	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=9
+13:00:56	Warning: 	File has moved from https://www.hardifinserv.in/?p=9 to https://www.hardifinserv.in/about/
+13:00:56	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=462
+13:00:56	Warning: 	File has moved from https://www.hardifinserv.in/?p=462 to https://www.hardifinserv.in/about/core-team/
+13:01:01	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3606
+13:01:01	Warning: 	File has moved from https://www.hardifinserv.in/?p=3606 to https://www.hardifinserv.in/about/why-us/
+13:01:02	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=377
+13:01:02	Warning: 	File has moved from https://www.hardifinserv.in/?p=377 to https://www.hardifinserv.in/about/company-history/
+13:01:02	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3607
+13:01:02	Warning: 	File has moved from https://www.hardifinserv.in/?p=3607 to https://www.hardifinserv.in/about/company-brochure/
+13:01:02	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3595
+13:01:02	Warning: 	File has moved from https://www.hardifinserv.in/?p=3595 to https://www.hardifinserv.in/products/
+13:01:02	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=DDEC3CFDC9CE9B4BD549C271720B6193
+13:01:02	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=DDEC3CFDC9CE9B4BD549C271720B6193 and https://www.hardifinserv.in/?wordfence_lh=1&hid=DDEC3CFDC9CE9B4BD549C271720B6193
+13:01:02	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=DDEC3CFDC9CE9B4BD549C271720B6193 to https://www.hardifinserv.in/?wordfence_lh=1&hid=DDEC3CFDC9CE9B4BD549C271720B6193
+13:01:02	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3434
+13:01:02	Warning: 	File has moved from https://www.hardifinserv.in/?p=3434 to https://www.hardifinserv.in/products/mutual-fund/
+13:01:02	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D
+13:01:02	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D and https://www.hardifinserv.in/?wordfence_lh=1&hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D
+13:01:02	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D to https://www.hardifinserv.in/?wordfence_lh=1&hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D
+13:01:03	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3579
+13:01:03	Warning: 	File has moved from https://www.hardifinserv.in/?p=3579 to https://www.hardifinserv.in/products/equity-investment/
+13:01:03	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=DC734A2875FE38C064320234A828C4B8
+13:01:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=DC734A2875FE38C064320234A828C4B8 and https://www.hardifinserv.in/?wordfence_lh=1&hid=DC734A2875FE38C064320234A828C4B8
+13:01:03	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=DC734A2875FE38C064320234A828C4B8 to https://www.hardifinserv.in/?wordfence_lh=1&hid=DC734A2875FE38C064320234A828C4B8
+13:01:07	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3582
+13:01:07	Warning: 	File has moved from https://www.hardifinserv.in/?p=3582 to https://www.hardifinserv.in/products/pms-services/
+13:01:07	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3457
+13:01:07	Warning: 	File has moved from https://www.hardifinserv.in/?p=3457 to https://www.hardifinserv.in/products/insurance/
+13:01:07	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=879BDE5CC83A50340064118C4EF12A23
+13:01:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=879BDE5CC83A50340064118C4EF12A23 and https://www.hardifinserv.in/?wordfence_lh=1&hid=879BDE5CC83A50340064118C4EF12A23
+13:01:07	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=879BDE5CC83A50340064118C4EF12A23 to https://www.hardifinserv.in/?wordfence_lh=1&hid=879BDE5CC83A50340064118C4EF12A23
+13:01:09	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3585
+13:01:09	Warning: 	File has moved from https://www.hardifinserv.in/?p=3585 to https://www.hardifinserv.in/products/insurance/life-insurance/
+13:01:09	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=9B501DF8F93457A4A9EC640D6C03280B
+13:01:09	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=9B501DF8F93457A4A9EC640D6C03280B and https://www.hardifinserv.in/?wordfence_lh=1&hid=9B501DF8F93457A4A9EC640D6C03280B
+13:01:09	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=9B501DF8F93457A4A9EC640D6C03280B to https://www.hardifinserv.in/?wordfence_lh=1&hid=9B501DF8F93457A4A9EC640D6C03280B
+13:01:09	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3583
+13:01:09	Warning: 	File has moved from https://www.hardifinserv.in/?p=3583 to https://www.hardifinserv.in/products/insurance/general-insurance/
+13:01:09	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=ABBA9997AFFAB81EBF010949635A1CC9
+13:01:09	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=ABBA9997AFFAB81EBF010949635A1CC9 and https://www.hardifinserv.in/?wordfence_lh=1&hid=ABBA9997AFFAB81EBF010949635A1CC9
+13:01:09	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=ABBA9997AFFAB81EBF010949635A1CC9 to https://www.hardifinserv.in/?wordfence_lh=1&hid=ABBA9997AFFAB81EBF010949635A1CC9
+13:01:10	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3592
+13:01:10	Warning: 	File has moved from https://www.hardifinserv.in/?p=3592 to https://www.hardifinserv.in/products/insurance/term-plan/
+13:01:10	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=7AB4A2B17C3EA9226DA92A12D631707D
+13:01:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=7AB4A2B17C3EA9226DA92A12D631707D and https://www.hardifinserv.in/?wordfence_lh=1&hid=7AB4A2B17C3EA9226DA92A12D631707D
+13:01:10	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=7AB4A2B17C3EA9226DA92A12D631707D to https://www.hardifinserv.in/?wordfence_lh=1&hid=7AB4A2B17C3EA9226DA92A12D631707D
+13:01:14	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3590
+13:01:14	Warning: 	File has moved from https://www.hardifinserv.in/?p=3590 to https://www.hardifinserv.in/products/insurance/health-insurance/
+13:01:14	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=69F0938A8AD15DEDE68D317041298697
+13:01:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=69F0938A8AD15DEDE68D317041298697 and https://www.hardifinserv.in/?wordfence_lh=1&hid=69F0938A8AD15DEDE68D317041298697
+13:01:14	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=69F0938A8AD15DEDE68D317041298697 to https://www.hardifinserv.in/?wordfence_lh=1&hid=69F0938A8AD15DEDE68D317041298697
+13:01:15	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3593
+13:01:15	Warning: 	File has moved from https://www.hardifinserv.in/?p=3593 to https://www.hardifinserv.in/products/fixed-income-products/
+13:01:16	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3599
+13:01:16	Warning: 	File has moved from https://www.hardifinserv.in/?p=3599 to https://www.hardifinserv.in/products/loans-procurement/
+13:01:16	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB
+13:01:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB and https://www.hardifinserv.in/?wordfence_lh=1&hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB
+13:01:16	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB to https://www.hardifinserv.in/?wordfence_lh=1&hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB
+13:01:16	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3600
+13:01:16	Warning: 	File has moved from https://www.hardifinserv.in/?p=3600 to https://www.hardifinserv.in/products/nri-services/
+13:01:16	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=558
+13:01:16	Warning: 	File has moved from https://www.hardifinserv.in/?p=558 to https://www.hardifinserv.in/services-grid/
+13:01:17	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3542
+13:01:17	Warning: 	File has moved from https://www.hardifinserv.in/?p=3542 to https://www.hardifinserv.in/service/tax-planning/
+13:01:17	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3541
+13:01:17	Warning: 	File has moved from https://www.hardifinserv.in/?p=3541 to https://www.hardifinserv.in/service/wealth-management/
+13:01:17	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3540
+13:01:17	Warning: 	File has moved from https://www.hardifinserv.in/?p=3540 to https://www.hardifinserv.in/service/goal-based-investing/
+13:01:17	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=571
+13:01:17	Warning: 	File has moved from https://www.hardifinserv.in/?p=571 to https://www.hardifinserv.in/service/financial-planning/
+13:01:17	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2A05B289E2C48CD8B7FD08BCC2EAEC34
+13:01:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2A05B289E2C48CD8B7FD08BCC2EAEC34 and https://www.hardifinserv.in/?wordfence_lh=1&hid=2A05B289E2C48CD8B7FD08BCC2EAEC34
+13:01:17	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2A05B289E2C48CD8B7FD08BCC2EAEC34 to https://www.hardifinserv.in/?wordfence_lh=1&hid=2A05B289E2C48CD8B7FD08BCC2EAEC34
+13:01:17	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3543
+13:01:17	Warning: 	File has moved from https://www.hardifinserv.in/?p=3543 to https://www.hardifinserv.in/knowledge-center/
+13:01:17	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2C8081C26DAA7A4D1F3AC1EB625179F2
+13:01:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2C8081C26DAA7A4D1F3AC1EB625179F2 and https://www.hardifinserv.in/?wordfence_lh=1&hid=2C8081C26DAA7A4D1F3AC1EB625179F2
+13:01:17	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2C8081C26DAA7A4D1F3AC1EB625179F2 to https://www.hardifinserv.in/?wordfence_lh=1&hid=2C8081C26DAA7A4D1F3AC1EB625179F2
+13:01:21	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=C69578B57D263B486E5DEE22FAC4FB15
+13:01:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=C69578B57D263B486E5DEE22FAC4FB15 and https://www.hardifinserv.in/?wordfence_lh=1&hid=C69578B57D263B486E5DEE22FAC4FB15
+13:01:21	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=C69578B57D263B486E5DEE22FAC4FB15 to https://www.hardifinserv.in/?wordfence_lh=1&hid=C69578B57D263B486E5DEE22FAC4FB15
+13:01:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3547
+13:01:53	Warning: 	File has moved from https://www.hardifinserv.in/?p=3547 to https://www.hardifinserv.in/knowledge-center/mutual-funds-faqs/
+13:01:53	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=0AE207A4ED8FDD69FCE5C97998828FB8
+13:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=0AE207A4ED8FDD69FCE5C97998828FB8 and https://www.hardifinserv.in/?wordfence_lh=1&hid=0AE207A4ED8FDD69FCE5C97998828FB8
+13:01:53	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=0AE207A4ED8FDD69FCE5C97998828FB8 to https://www.hardifinserv.in/?wordfence_lh=1&hid=0AE207A4ED8FDD69FCE5C97998828FB8
+13:01:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3549
+13:01:53	Warning: 	File has moved from https://www.hardifinserv.in/?p=3549 to https://www.hardifinserv.in/knowledge-center/sip-faqs/
+13:01:53	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=14E1F3C5FF664AF90D084943C704BCC2
+13:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=14E1F3C5FF664AF90D084943C704BCC2 and https://www.hardifinserv.in/?wordfence_lh=1&hid=14E1F3C5FF664AF90D084943C704BCC2
+13:01:53	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=14E1F3C5FF664AF90D084943C704BCC2 to https://www.hardifinserv.in/?wordfence_lh=1&hid=14E1F3C5FF664AF90D084943C704BCC2
+13:01:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3551
+13:01:53	Warning: 	File has moved from https://www.hardifinserv.in/?p=3551 to https://www.hardifinserv.in/knowledge-center/insurance-faqs/
+13:01:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3553
+13:01:53	Warning: 	File has moved from https://www.hardifinserv.in/?p=3553 to https://www.hardifinserv.in/knowledge-center/images/
+13:01:54	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3556
+13:01:54	Warning: 	File has moved from https://www.hardifinserv.in/?p=3556 to https://www.hardifinserv.in/knowledge-center/video/
+13:01:54	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=733DBA112FD6D44672974A68FDE928AD
+13:01:54	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=733DBA112FD6D44672974A68FDE928AD and https://www.hardifinserv.in/?wordfence_lh=1&hid=733DBA112FD6D44672974A68FDE928AD
+13:01:54	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=733DBA112FD6D44672974A68FDE928AD to https://www.hardifinserv.in/?wordfence_lh=1&hid=733DBA112FD6D44672974A68FDE928AD
+13:01:54	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3560
+13:01:54	Warning: 	File has moved from https://www.hardifinserv.in/?p=3560 to https://www.hardifinserv.in/calculator/
+13:01:54	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3561
+13:01:54	Warning: 	File has moved from https://www.hardifinserv.in/?p=3561 to https://www.hardifinserv.in/calculator/sip-calculator/
+13:01:55	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3567
+13:01:55	Warning: 	File has moved from https://www.hardifinserv.in/?p=3567 to https://www.hardifinserv.in/calculator/education-planner/
+13:01:55	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3565
+13:01:55	Warning: 	File has moved from https://www.hardifinserv.in/?p=3565 to https://www.hardifinserv.in/calculator/retirement-planner/
+13:01:55	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3566
+13:01:55	Warning: 	File has moved from https://www.hardifinserv.in/?p=3566 to https://www.hardifinserv.in/calculator/sip-delay-calculator/
+13:01:55	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=55DD5F28F471783AD3258202DE7BF755
+13:01:55	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=55DD5F28F471783AD3258202DE7BF755 and https://www.hardifinserv.in/?wordfence_lh=1&hid=55DD5F28F471783AD3258202DE7BF755
+13:01:55	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=55DD5F28F471783AD3258202DE7BF755 to https://www.hardifinserv.in/?wordfence_lh=1&hid=55DD5F28F471783AD3258202DE7BF755
+13:02:00	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3562
+13:02:00	Warning: 	File has moved from https://www.hardifinserv.in/?p=3562 to https://www.hardifinserv.in/calculator/return-calculator/
+13:02:00	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=6B75B8D6E819197FCD26F8106D8AC3E3
+13:02:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=6B75B8D6E819197FCD26F8106D8AC3E3 and https://www.hardifinserv.in/?wordfence_lh=1&hid=6B75B8D6E819197FCD26F8106D8AC3E3
+13:02:00	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=6B75B8D6E819197FCD26F8106D8AC3E3 to https://www.hardifinserv.in/?wordfence_lh=1&hid=6B75B8D6E819197FCD26F8106D8AC3E3
+13:02:01	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3563
+13:02:01	Warning: 	File has moved from https://www.hardifinserv.in/?p=3563 to https://www.hardifinserv.in/calculator/goal-planner/
+13:02:01	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=5754AE9AEEFA966265B3EA77DD4C8DCF
+13:02:01	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=5754AE9AEEFA966265B3EA77DD4C8DCF and https://www.hardifinserv.in/?wordfence_lh=1&hid=5754AE9AEEFA966265B3EA77DD4C8DCF
+13:02:01	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=5754AE9AEEFA966265B3EA77DD4C8DCF to https://www.hardifinserv.in/?wordfence_lh=1&hid=5754AE9AEEFA966265B3EA77DD4C8DCF
+13:02:02	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3564
+13:02:02	Warning: 	File has moved from https://www.hardifinserv.in/?p=3564 to https://www.hardifinserv.in/calculator/marriage-planner/
+13:02:02	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=A0D245877F85C1DDC8BB6E942661E429
+13:02:02	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=A0D245877F85C1DDC8BB6E942661E429 and https://www.hardifinserv.in/?wordfence_lh=1&hid=A0D245877F85C1DDC8BB6E942661E429
+13:02:02	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=A0D245877F85C1DDC8BB6E942661E429 to https://www.hardifinserv.in/?wordfence_lh=1&hid=A0D245877F85C1DDC8BB6E942661E429
+13:02:03	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3559
+13:02:03	Warning: 	File has moved from https://www.hardifinserv.in/?p=3559 to https://www.hardifinserv.in/calculator/emi-calculator/
+13:02:03	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=471B154382BCFDF83CF6B1DC88ED4F7C
+13:02:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=471B154382BCFDF83CF6B1DC88ED4F7C and https://www.hardifinserv.in/?wordfence_lh=1&hid=471B154382BCFDF83CF6B1DC88ED4F7C
+13:02:03	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=471B154382BCFDF83CF6B1DC88ED4F7C to https://www.hardifinserv.in/?wordfence_lh=1&hid=471B154382BCFDF83CF6B1DC88ED4F7C
+13:02:07	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3577
+13:02:07	Warning: 	File has moved from https://www.hardifinserv.in/?p=3577 to https://www.hardifinserv.in/downloads/
+13:02:08	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=ED621C03A6346737261530E7FBA11164
+13:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=ED621C03A6346737261530E7FBA11164 and https://www.hardifinserv.in/?wordfence_lh=1&hid=ED621C03A6346737261530E7FBA11164
+13:02:08	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=ED621C03A6346737261530E7FBA11164 to https://www.hardifinserv.in/?wordfence_lh=1&hid=ED621C03A6346737261530E7FBA11164
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Axis/axis_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Axis/axis_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Axis/axis_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Baroda/baroda_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Baroda/baroda_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Baroda/baroda_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Birla/birla_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Birla/birla_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Birla/birla_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BNP/bnp_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BNP/bnp_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BNP/bnp_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BOI_AXA/boi-axa-common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BOI_AXA/boi-axa-sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/BOI_AXA/boi-axa-stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/CANARA/canara_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/CANARA/canara_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/CANARA/canara_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DHFL/dhfl-common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DHFL/dhfl-sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DHFL/dhfl-stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DSP/dsp_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DSP/dsp_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/DSP/dsp_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/EDELWEISS/edelweiss_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/EDELWEISS/edelweiss_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/EDELWEISS/edelweiss_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/FRANKLIN/franklin_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/FRANKLIN/franklin_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/FRANKLIN/franklin_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HDFC/hdfc_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HDFC/hdfc_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HDFC/hdfc_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HSBC/hsbc_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HSBC/hsbc_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/HSBC/hsbc_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/ICICI/icici_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/ICICI/icici_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/ICICI/icici_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDBI/idbi_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDBI/idbi_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDBI/idbi_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDFC/idfc_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDFC/idfc_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/IDFC/idfc_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Invesco/invesco-common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Invesco/invesco-sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Invesco/invesco-stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/JP/jp_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/JP/jp_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/JP/jp_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KOTAK/kotak_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KOTAK/kotak_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KOTAK/kotak_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/LT/lt_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/LT/lt_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/LT/lt_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MIRAE/mirae_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MIRAE/mirae_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MIRAE/mirae_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MOTILAL/motilal_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MOTILAL/motilal_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/MOTILAL/motilal_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PEERLESS/peerless_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PEERLESS/peerless_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PEERLESS/peerless_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PRINCIPAL/principal_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PRINCIPAL/principal_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PRINCIPAL/principal_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/QUANTUM/quantum_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/QUANTUM/quantum_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/QUANTUM/quantum_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIANCE/reliance_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIANCE/reliance_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIANCE/reliance_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIGARE/religare_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIGARE/religare_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/RELIGARE/religare_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SBI/sbi_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SBI/sbi_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SBI/sbi_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SUNDARAM/sundaram_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SUNDARAM/sundaram_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/SUNDARAM/sundaram_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TATA/tata_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TATA/tata_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TATA/tata_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TAURUS/taurus_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TAURUS/taurus_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TAURUS/taurus_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/UTI/uti_common.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/UTI/uti_sip.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/UTI/uti_stp.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Challan-Form/280.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Challan-Form/281.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Challan-Form/282.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Challan-Form/283.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/Challan-Form/284.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KYC-Forms/Individual-KYC.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KYC-Forms/KYC-CHANGE_FORM.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/KYC-Forms/NonIndividual-KYC.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PAN-forms/PAN49A.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/PAN-forms/PANchangeform.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TAN-forms/tan_change.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/forms/TAN-forms/tan49B.pdf (from https://www.hardifinserv.in/downloads/)
+13:02:08	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3655
+13:02:08	Warning: 	File has moved from https://www.hardifinserv.in/?p=3655 to https://www.hardifinserv.in/downloads/mf-form/
+13:02:08	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3657
+13:02:08	Warning: 	File has moved from https://www.hardifinserv.in/?p=3657 to https://www.hardifinserv.in/downloads/kyc-fatca-form/
+13:02:08	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=D042E2A04AA73981D15EC5E693E08BB9
+13:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=D042E2A04AA73981D15EC5E693E08BB9 and https://www.hardifinserv.in/?wordfence_lh=1&hid=D042E2A04AA73981D15EC5E693E08BB9
+13:02:08	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=D042E2A04AA73981D15EC5E693E08BB9 to https://www.hardifinserv.in/?wordfence_lh=1&hid=D042E2A04AA73981D15EC5E693E08BB9
+13:02:09	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3658
+13:02:09	Warning: 	File has moved from https://www.hardifinserv.in/?p=3658 to https://www.hardifinserv.in/downloads/investor-data-form/
+13:02:09	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=307692EA52412E8DCEF84670C7CD8140
+13:02:09	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=307692EA52412E8DCEF84670C7CD8140 and https://www.hardifinserv.in/?wordfence_lh=1&hid=307692EA52412E8DCEF84670C7CD8140
+13:02:09	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=307692EA52412E8DCEF84670C7CD8140 to https://www.hardifinserv.in/?wordfence_lh=1&hid=307692EA52412E8DCEF84670C7CD8140
+13:02:11	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3661
+13:02:11	Warning: 	File has moved from https://www.hardifinserv.in/?p=3661 to https://www.hardifinserv.in/downloads/client-master-data-form/
+13:02:11	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=6294AE1A2ADC4A1513788289363F6C73
+13:02:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=6294AE1A2ADC4A1513788289363F6C73 and https://www.hardifinserv.in/?wordfence_lh=1&hid=6294AE1A2ADC4A1513788289363F6C73
+13:02:11	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=6294AE1A2ADC4A1513788289363F6C73 to https://www.hardifinserv.in/?wordfence_lh=1&hid=6294AE1A2ADC4A1513788289363F6C73
+13:02:14	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3663
+13:02:14	Warning: 	File has moved from https://www.hardifinserv.in/?p=3663 to https://www.hardifinserv.in/downloads/software/
+13:02:14	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3664
+13:02:14	Warning: 	File has moved from https://www.hardifinserv.in/?p=3664 to https://www.hardifinserv.in/downloads/risk-profiler/
+13:02:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=D22FA977F226D79A3E9F9FC372983984
+13:02:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=D22FA977F226D79A3E9F9FC372983984 and https://www.hardifinserv.in/?wordfence_lh=1&hid=D22FA977F226D79A3E9F9FC372983984
+13:02:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=D22FA977F226D79A3E9F9FC372983984 to https://www.hardifinserv.in/?wordfence_lh=1&hid=D22FA977F226D79A3E9F9FC372983984
+13:02:15	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=11
+13:02:15	Warning: 	File has moved from https://www.hardifinserv.in/?p=11 to https://www.hardifinserv.in/contact-us/
+13:02:15	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=3923
+13:02:15	Warning: 	File has moved from https://www.hardifinserv.in/?p=3923 to https://www.hardifinserv.in/register-new-client/
+13:02:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=CBEC3F3AC8F5F161F0A057D37786132C
+13:02:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=CBEC3F3AC8F5F161F0A057D37786132C and https://www.hardifinserv.in/?wordfence_lh=1&hid=CBEC3F3AC8F5F161F0A057D37786132C
+13:02:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=CBEC3F3AC8F5F161F0A057D37786132C to https://www.hardifinserv.in/?wordfence_lh=1&hid=CBEC3F3AC8F5F161F0A057D37786132C
+13:02:16	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=1491
+13:02:16	Warning: 	File has moved from https://www.hardifinserv.in/?p=1491 to https://www.hardifinserv.in/make-an-appointment/
+13:02:16	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=55881E1D48CB2282015B2FD889D4BB10
+13:02:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=55881E1D48CB2282015B2FD889D4BB10 and https://www.hardifinserv.in/?wordfence_lh=1&hid=55881E1D48CB2282015B2FD889D4BB10
+13:02:16	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=55881E1D48CB2282015B2FD889D4BB10 to https://www.hardifinserv.in/?wordfence_lh=1&hid=55881E1D48CB2282015B2FD889D4BB10
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2 (from https://www.hardifinserv.in/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/all.min.css?ver=8.4.1)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf (from https://www.hardifinserv.in/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/all.min.css?ver=8.4.1)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/Popover requires tooltip.js (from https://www.hardifinserv.in/wp-content/themes/consulting/assets/js/bootstrap.min.js?ver=4.0.2)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/$&/ (from https://www.hardifinserv.in/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://www.hardifinserv.in/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=529cf8fc36dc4206da89)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/GET (from https://www.hardifinserv.in/wp-content/themes/consulting/assets/js/particles.min.js?ver=4.0.2)
+13:02:17	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/Error pJS - No image.src (from https://www.hardifinserv.in/wp-content/themes/consulting/assets/js/particles.min.js?ver=4.0.2)
+13:02:18	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=461
+13:02:18	Warning: 	File has moved from https://www.hardifinserv.in/?p=461 to https://www.hardifinserv.in/staff/brandon-copperfield/
+13:02:18	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=460
+13:02:18	Warning: 	File has moved from https://www.hardifinserv.in/?p=460 to https://www.hardifinserv.in/staff/clark-roberts/
+13:02:18	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=459
+13:02:18	Warning: 	File has moved from https://www.hardifinserv.in/?p=459 to https://www.hardifinserv.in/staff/ashley-hardy/
+13:02:18	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=0FB1FDA9E11812270F62101690E34AF0
+13:02:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=0FB1FDA9E11812270F62101690E34AF0 and https://www.hardifinserv.in/?wordfence_lh=1&hid=0FB1FDA9E11812270F62101690E34AF0
+13:02:18	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=0FB1FDA9E11812270F62101690E34AF0 to https://www.hardifinserv.in/?wordfence_lh=1&hid=0FB1FDA9E11812270F62101690E34AF0
+13:02:21	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=DDEC3CFDC9CE9B4BD549C271720B6193
+13:02:21	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=DDEC3CFDC9CE9B4BD549C271720B6193 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DDDEC3CFDC9CE9B4BD549C271720B6193
+13:02:22	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D
+13:02:22	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=1DF4920ED7CA11D20AC06CDCC4DB0D3D to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D1DF4920ED7CA11D20AC06CDCC4DB0D3D
+13:02:22	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=DC734A2875FE38C064320234A828C4B8
+13:02:22	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=DC734A2875FE38C064320234A828C4B8 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DDC734A2875FE38C064320234A828C4B8
+13:02:26	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=879BDE5CC83A50340064118C4EF12A23
+13:02:26	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=879BDE5CC83A50340064118C4EF12A23 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D879BDE5CC83A50340064118C4EF12A23
+13:02:28	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=9B501DF8F93457A4A9EC640D6C03280B
+13:02:28	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=9B501DF8F93457A4A9EC640D6C03280B to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D9B501DF8F93457A4A9EC640D6C03280B
+13:02:28	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=ABBA9997AFFAB81EBF010949635A1CC9
+13:02:28	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=ABBA9997AFFAB81EBF010949635A1CC9 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DABBA9997AFFAB81EBF010949635A1CC9
+13:02:29	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=7AB4A2B17C3EA9226DA92A12D631707D
+13:02:29	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=7AB4A2B17C3EA9226DA92A12D631707D to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D7AB4A2B17C3EA9226DA92A12D631707D
+13:02:32	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=69F0938A8AD15DEDE68D317041298697
+13:02:32	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=69F0938A8AD15DEDE68D317041298697 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D69F0938A8AD15DEDE68D317041298697
+13:02:35	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB
+13:02:35	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=B6AB85066FFE4CFA1F74EFFBC1CD4CFB to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DB6AB85066FFE4CFA1F74EFFBC1CD4CFB
+13:02:36	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A05B289E2C48CD8B7FD08BCC2EAEC34
+13:02:36	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A05B289E2C48CD8B7FD08BCC2EAEC34 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2A05B289E2C48CD8B7FD08BCC2EAEC34
+13:02:36	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2C8081C26DAA7A4D1F3AC1EB625179F2
+13:02:36	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2C8081C26DAA7A4D1F3AC1EB625179F2 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2C8081C26DAA7A4D1F3AC1EB625179F2
+13:02:40	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=C69578B57D263B486E5DEE22FAC4FB15
+13:02:40	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=C69578B57D263B486E5DEE22FAC4FB15 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DC69578B57D263B486E5DEE22FAC4FB15
+13:02:42	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=1
+13:02:42	Warning: 	File has moved from https://www.hardifinserv.in/?p=1 to https://www.hardifinserv.in/insurance-investment/
+13:02:42	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=EEDF4042AF7CE8E4417186A80D1C77A9
+13:02:42	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=EEDF4042AF7CE8E4417186A80D1C77A9 and https://www.hardifinserv.in/?wordfence_lh=1&hid=EEDF4042AF7CE8E4417186A80D1C77A9
+13:02:42	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=EEDF4042AF7CE8E4417186A80D1C77A9 to https://www.hardifinserv.in/?wordfence_lh=1&hid=EEDF4042AF7CE8E4417186A80D1C77A9
+13:02:43	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/wp-content/uploads/2020/03/વીમો-અથવા-રોકાણ-150x150.png (from https://www.hardifinserv.in/insurance-investment/)
+13:02:43	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=135
+13:02:43	Warning: 	File has moved from https://www.hardifinserv.in/?p=135 to https://www.hardifinserv.in/harvest-great-ideas-from-your-companys-best-assets/
+13:02:43	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=59E5E710CC90B7132D2205E4F7B784C3
+13:02:43	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=59E5E710CC90B7132D2205E4F7B784C3 and https://www.hardifinserv.in/?wordfence_lh=1&hid=59E5E710CC90B7132D2205E4F7B784C3
+13:02:43	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=59E5E710CC90B7132D2205E4F7B784C3 to https://www.hardifinserv.in/?wordfence_lh=1&hid=59E5E710CC90B7132D2205E4F7B784C3
+13:03:14	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=133
+13:03:14	Warning: 	File has moved from https://www.hardifinserv.in/?p=133 to https://www.hardifinserv.in/three-social-media-hacks-for-the-busy-entrepreneur/
+13:03:14	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=668FC7E5B472898C8F79B7B3F2BFC4A5
+13:03:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=668FC7E5B472898C8F79B7B3F2BFC4A5 and https://www.hardifinserv.in/?wordfence_lh=1&hid=668FC7E5B472898C8F79B7B3F2BFC4A5
+13:03:14	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=668FC7E5B472898C8F79B7B3F2BFC4A5 to https://www.hardifinserv.in/?wordfence_lh=1&hid=668FC7E5B472898C8F79B7B3F2BFC4A5
+13:03:15	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=131
+13:03:15	Warning: 	File has moved from https://www.hardifinserv.in/?p=131 to https://www.hardifinserv.in/stick-with-your-concept-but-do-your-homework/
+13:03:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=915419892036C74399C514286D746B0B
+13:03:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=915419892036C74399C514286D746B0B and https://www.hardifinserv.in/?wordfence_lh=1&hid=915419892036C74399C514286D746B0B
+13:03:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=915419892036C74399C514286D746B0B to https://www.hardifinserv.in/?wordfence_lh=1&hid=915419892036C74399C514286D746B0B
+13:03:15	Warning: 	Moved Permanently for https://www.hardifinserv.in/?p=1076
+13:03:15	Warning: 	File has moved from https://www.hardifinserv.in/?p=1076 to https://www.hardifinserv.in/narrow-your-focus-to-prevent-overanalysis/
+13:03:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=FAD0E4707CDF6DA23E4564EB4EEB1432
+13:03:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=FAD0E4707CDF6DA23E4564EB4EEB1432 and https://www.hardifinserv.in/?wordfence_lh=1&hid=FAD0E4707CDF6DA23E4564EB4EEB1432
+13:03:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=FAD0E4707CDF6DA23E4564EB4EEB1432 to https://www.hardifinserv.in/?wordfence_lh=1&hid=FAD0E4707CDF6DA23E4564EB4EEB1432
+13:03:16	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=C1F6A3182A8A2E54F2B4C7201F07D217
+13:03:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=C1F6A3182A8A2E54F2B4C7201F07D217 and https://www.hardifinserv.in/?wordfence_lh=1&hid=C1F6A3182A8A2E54F2B4C7201F07D217
+13:03:16	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=C1F6A3182A8A2E54F2B4C7201F07D217 to https://www.hardifinserv.in/?wordfence_lh=1&hid=C1F6A3182A8A2E54F2B4C7201F07D217
+13:03:21	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=E60A8BEA4F9213914F59AF7B478EDBBF
+13:03:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=E60A8BEA4F9213914F59AF7B478EDBBF and https://www.hardifinserv.in/?wordfence_lh=1&hid=E60A8BEA4F9213914F59AF7B478EDBBF
+13:03:21	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=E60A8BEA4F9213914F59AF7B478EDBBF to https://www.hardifinserv.in/?wordfence_lh=1&hid=E60A8BEA4F9213914F59AF7B478EDBBF
+13:03:21	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2A9D10AF2F6EAAEDF79B8458353622BB
+13:03:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2A9D10AF2F6EAAEDF79B8458353622BB and https://www.hardifinserv.in/?wordfence_lh=1&hid=2A9D10AF2F6EAAEDF79B8458353622BB
+13:03:21	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2A9D10AF2F6EAAEDF79B8458353622BB to https://www.hardifinserv.in/?wordfence_lh=1&hid=2A9D10AF2F6EAAEDF79B8458353622BB
+13:03:22	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=4FC3A941495FA804FB65B8AA16A85FAF
+13:03:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=4FC3A941495FA804FB65B8AA16A85FAF and https://www.hardifinserv.in/?wordfence_lh=1&hid=4FC3A941495FA804FB65B8AA16A85FAF
+13:03:22	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=4FC3A941495FA804FB65B8AA16A85FAF to https://www.hardifinserv.in/?wordfence_lh=1&hid=4FC3A941495FA804FB65B8AA16A85FAF
+13:03:23	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2753713BC5FA71D1B9351B9707401978
+13:03:23	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2753713BC5FA71D1B9351B9707401978 and https://www.hardifinserv.in/?wordfence_lh=1&hid=2753713BC5FA71D1B9351B9707401978
+13:03:23	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2753713BC5FA71D1B9351B9707401978 to https://www.hardifinserv.in/?wordfence_lh=1&hid=2753713BC5FA71D1B9351B9707401978
+13:03:28	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=B78935FFA209DD83613C071E37270174
+13:03:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=B78935FFA209DD83613C071E37270174 and https://www.hardifinserv.in/?wordfence_lh=1&hid=B78935FFA209DD83613C071E37270174
+13:03:28	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=B78935FFA209DD83613C071E37270174 to https://www.hardifinserv.in/?wordfence_lh=1&hid=B78935FFA209DD83613C071E37270174
+13:03:29	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=923633B512BA58BEFD1B519AC954DBEA
+13:03:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=923633B512BA58BEFD1B519AC954DBEA and https://www.hardifinserv.in/?wordfence_lh=1&hid=923633B512BA58BEFD1B519AC954DBEA
+13:03:29	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=923633B512BA58BEFD1B519AC954DBEA to https://www.hardifinserv.in/?wordfence_lh=1&hid=923633B512BA58BEFD1B519AC954DBEA
+13:03:31	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=7139482FDFD82EEBE9EA21F973BD50F0
+13:03:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=7139482FDFD82EEBE9EA21F973BD50F0 and https://www.hardifinserv.in/?wordfence_lh=1&hid=7139482FDFD82EEBE9EA21F973BD50F0
+13:03:31	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=7139482FDFD82EEBE9EA21F973BD50F0 to https://www.hardifinserv.in/?wordfence_lh=1&hid=7139482FDFD82EEBE9EA21F973BD50F0
+13:03:32	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=0AE207A4ED8FDD69FCE5C97998828FB8
+13:03:32	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=0AE207A4ED8FDD69FCE5C97998828FB8 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D0AE207A4ED8FDD69FCE5C97998828FB8
+13:03:32	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=14E1F3C5FF664AF90D084943C704BCC2
+13:03:32	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=14E1F3C5FF664AF90D084943C704BCC2 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D14E1F3C5FF664AF90D084943C704BCC2
+13:03:32	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=733DBA112FD6D44672974A68FDE928AD
+13:03:32	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=733DBA112FD6D44672974A68FDE928AD to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D733DBA112FD6D44672974A68FDE928AD
+13:03:38	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=55DD5F28F471783AD3258202DE7BF755
+13:03:38	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=55DD5F28F471783AD3258202DE7BF755 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D55DD5F28F471783AD3258202DE7BF755
+13:03:39	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=6B75B8D6E819197FCD26F8106D8AC3E3
+13:03:39	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=6B75B8D6E819197FCD26F8106D8AC3E3 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D6B75B8D6E819197FCD26F8106D8AC3E3
+13:03:39	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=5754AE9AEEFA966265B3EA77DD4C8DCF
+13:03:39	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=5754AE9AEEFA966265B3EA77DD4C8DCF to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D5754AE9AEEFA966265B3EA77DD4C8DCF
+13:03:40	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=A0D245877F85C1DDC8BB6E942661E429
+13:03:40	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=A0D245877F85C1DDC8BB6E942661E429 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DA0D245877F85C1DDC8BB6E942661E429
+13:03:45	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=471B154382BCFDF83CF6B1DC88ED4F7C
+13:03:45	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=471B154382BCFDF83CF6B1DC88ED4F7C to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D471B154382BCFDF83CF6B1DC88ED4F7C
+13:03:45	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=ED621C03A6346737261530E7FBA11164
+13:03:45	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=ED621C03A6346737261530E7FBA11164 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DED621C03A6346737261530E7FBA11164
+13:03:45	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=D042E2A04AA73981D15EC5E693E08BB9
+13:03:45	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=D042E2A04AA73981D15EC5E693E08BB9 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DD042E2A04AA73981D15EC5E693E08BB9
+13:03:46	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=307692EA52412E8DCEF84670C7CD8140
+13:03:46	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=307692EA52412E8DCEF84670C7CD8140 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D307692EA52412E8DCEF84670C7CD8140
+13:03:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=6294AE1A2ADC4A1513788289363F6C73
+13:03:53	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=6294AE1A2ADC4A1513788289363F6C73 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D6294AE1A2ADC4A1513788289363F6C73
+13:03:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=D22FA977F226D79A3E9F9FC372983984
+13:03:53	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=D22FA977F226D79A3E9F9FC372983984 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DD22FA977F226D79A3E9F9FC372983984
+13:03:53	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=CBEC3F3AC8F5F161F0A057D37786132C
+13:03:53	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=CBEC3F3AC8F5F161F0A057D37786132C to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DCBEC3F3AC8F5F161F0A057D37786132C
+13:03:54	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=55881E1D48CB2282015B2FD889D4BB10
+13:03:54	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=55881E1D48CB2282015B2FD889D4BB10 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D55881E1D48CB2282015B2FD889D4BB10
+13:03:59	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=0FB1FDA9E11812270F62101690E34AF0
+13:03:59	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=0FB1FDA9E11812270F62101690E34AF0 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D0FB1FDA9E11812270F62101690E34AF0
+13:03:59	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=EEDF4042AF7CE8E4417186A80D1C77A9
+13:03:59	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=EEDF4042AF7CE8E4417186A80D1C77A9 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DEEDF4042AF7CE8E4417186A80D1C77A9
+13:03:59	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=59E5E710CC90B7132D2205E4F7B784C3
+13:03:59	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=59E5E710CC90B7132D2205E4F7B784C3 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D59E5E710CC90B7132D2205E4F7B784C3
+13:04:00	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=1E9B2D196BF84F65238E0322F453F962
+13:04:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=1E9B2D196BF84F65238E0322F453F962 and https://www.hardifinserv.in/?wordfence_lh=1&hid=1E9B2D196BF84F65238E0322F453F962
+13:04:00	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=1E9B2D196BF84F65238E0322F453F962 to https://www.hardifinserv.in/?wordfence_lh=1&hid=1E9B2D196BF84F65238E0322F453F962
+13:04:07	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=93FB41752122E4E6C145238867CD584D
+13:04:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=93FB41752122E4E6C145238867CD584D and https://www.hardifinserv.in/?wordfence_lh=1&hid=93FB41752122E4E6C145238867CD584D
+13:04:07	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=93FB41752122E4E6C145238867CD584D to https://www.hardifinserv.in/?wordfence_lh=1&hid=93FB41752122E4E6C145238867CD584D
+13:04:07	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=B601E3A18559E12EDE5A791D05740980
+13:04:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=B601E3A18559E12EDE5A791D05740980 and https://www.hardifinserv.in/?wordfence_lh=1&hid=B601E3A18559E12EDE5A791D05740980
+13:04:07	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=B601E3A18559E12EDE5A791D05740980 to https://www.hardifinserv.in/?wordfence_lh=1&hid=B601E3A18559E12EDE5A791D05740980
+13:04:07	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=64BA909A208A41E6C20BE5AC7C1E22D0
+13:04:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=64BA909A208A41E6C20BE5AC7C1E22D0 and https://www.hardifinserv.in/?wordfence_lh=1&hid=64BA909A208A41E6C20BE5AC7C1E22D0
+13:04:07	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=64BA909A208A41E6C20BE5AC7C1E22D0 to https://www.hardifinserv.in/?wordfence_lh=1&hid=64BA909A208A41E6C20BE5AC7C1E22D0
+13:04:07	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2136BD8B88B08CD72026394EF8A0AFC9
+13:04:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2136BD8B88B08CD72026394EF8A0AFC9 and https://www.hardifinserv.in/?wordfence_lh=1&hid=2136BD8B88B08CD72026394EF8A0AFC9
+13:04:07	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2136BD8B88B08CD72026394EF8A0AFC9 to https://www.hardifinserv.in/?wordfence_lh=1&hid=2136BD8B88B08CD72026394EF8A0AFC9
+13:04:14	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=B29A6B0A76CB805790163216739E299D
+13:04:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=B29A6B0A76CB805790163216739E299D and https://www.hardifinserv.in/?wordfence_lh=1&hid=B29A6B0A76CB805790163216739E299D
+13:04:14	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=B29A6B0A76CB805790163216739E299D to https://www.hardifinserv.in/?wordfence_lh=1&hid=B29A6B0A76CB805790163216739E299D
+13:04:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=B342FCC0BC7CEF222DAB20F51D6F2DDB
+13:04:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=B342FCC0BC7CEF222DAB20F51D6F2DDB and https://www.hardifinserv.in/?wordfence_lh=1&hid=B342FCC0BC7CEF222DAB20F51D6F2DDB
+13:04:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=B342FCC0BC7CEF222DAB20F51D6F2DDB to https://www.hardifinserv.in/?wordfence_lh=1&hid=B342FCC0BC7CEF222DAB20F51D6F2DDB
+13:04:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=E5ADE4C98DE543A7851524CEC57E4222
+13:04:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=E5ADE4C98DE543A7851524CEC57E4222 and https://www.hardifinserv.in/?wordfence_lh=1&hid=E5ADE4C98DE543A7851524CEC57E4222
+13:04:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=E5ADE4C98DE543A7851524CEC57E4222 to https://www.hardifinserv.in/?wordfence_lh=1&hid=E5ADE4C98DE543A7851524CEC57E4222
+13:04:15	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=6D90F3B1704D3EBEE0C89FE3085323FB
+13:04:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=6D90F3B1704D3EBEE0C89FE3085323FB and https://www.hardifinserv.in/?wordfence_lh=1&hid=6D90F3B1704D3EBEE0C89FE3085323FB
+13:04:15	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=6D90F3B1704D3EBEE0C89FE3085323FB to https://www.hardifinserv.in/?wordfence_lh=1&hid=6D90F3B1704D3EBEE0C89FE3085323FB
+13:04:21	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=7FA9391AC0B214CFD412604D4ACAE5FB
+13:04:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=7FA9391AC0B214CFD412604D4ACAE5FB and https://www.hardifinserv.in/?wordfence_lh=1&hid=7FA9391AC0B214CFD412604D4ACAE5FB
+13:04:21	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=7FA9391AC0B214CFD412604D4ACAE5FB to https://www.hardifinserv.in/?wordfence_lh=1&hid=7FA9391AC0B214CFD412604D4ACAE5FB
+13:04:22	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=FA51E490E066CDF4C627CE1D38BD6F30
+13:04:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=FA51E490E066CDF4C627CE1D38BD6F30 and https://www.hardifinserv.in/?wordfence_lh=1&hid=FA51E490E066CDF4C627CE1D38BD6F30
+13:04:22	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=FA51E490E066CDF4C627CE1D38BD6F30 to https://www.hardifinserv.in/?wordfence_lh=1&hid=FA51E490E066CDF4C627CE1D38BD6F30
+13:04:23	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=58F17A7D2A191D35908DE2902B7AB54B
+13:04:23	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=58F17A7D2A191D35908DE2902B7AB54B and https://www.hardifinserv.in/?wordfence_lh=1&hid=58F17A7D2A191D35908DE2902B7AB54B
+13:04:23	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=58F17A7D2A191D35908DE2902B7AB54B to https://www.hardifinserv.in/?wordfence_lh=1&hid=58F17A7D2A191D35908DE2902B7AB54B
+13:04:23	Error: 	"Not Found" (404) at link https://www.hardifinserv.in/harvest-great-ideas-from-your-companys-best-assets/youtu.be/ (from https://www.hardifinserv.in/wp-content/plugins/js_composer/assets/lib/vendor/prettyphoto/js/jquery.prettyPhoto.min.js?ver=8.4.1)
+13:04:23	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=668FC7E5B472898C8F79B7B3F2BFC4A5
+13:04:23	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=668FC7E5B472898C8F79B7B3F2BFC4A5 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D668FC7E5B472898C8F79B7B3F2BFC4A5
+13:04:28	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=915419892036C74399C514286D746B0B
+13:04:28	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=915419892036C74399C514286D746B0B to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D915419892036C74399C514286D746B0B
+13:04:29	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=FAD0E4707CDF6DA23E4564EB4EEB1432
+13:04:29	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=FAD0E4707CDF6DA23E4564EB4EEB1432 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DFAD0E4707CDF6DA23E4564EB4EEB1432
+13:04:29	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=C1F6A3182A8A2E54F2B4C7201F07D217
+13:04:29	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=C1F6A3182A8A2E54F2B4C7201F07D217 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DC1F6A3182A8A2E54F2B4C7201F07D217
+13:04:30	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=E60A8BEA4F9213914F59AF7B478EDBBF
+13:04:30	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=E60A8BEA4F9213914F59AF7B478EDBBF to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DE60A8BEA4F9213914F59AF7B478EDBBF
+13:04:35	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A9D10AF2F6EAAEDF79B8458353622BB
+13:04:35	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A9D10AF2F6EAAEDF79B8458353622BB to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2A9D10AF2F6EAAEDF79B8458353622BB
+13:04:36	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=4FC3A941495FA804FB65B8AA16A85FAF
+13:04:36	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=4FC3A941495FA804FB65B8AA16A85FAF to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D4FC3A941495FA804FB65B8AA16A85FAF
+13:04:36	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2753713BC5FA71D1B9351B9707401978
+13:04:36	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2753713BC5FA71D1B9351B9707401978 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2753713BC5FA71D1B9351B9707401978
+13:04:37	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=B78935FFA209DD83613C071E37270174
+13:04:37	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=B78935FFA209DD83613C071E37270174 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DB78935FFA209DD83613C071E37270174
+13:04:43	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=923633B512BA58BEFD1B519AC954DBEA
+13:04:43	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=923633B512BA58BEFD1B519AC954DBEA to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D923633B512BA58BEFD1B519AC954DBEA
+13:04:43	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=7139482FDFD82EEBE9EA21F973BD50F0
+13:04:43	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=7139482FDFD82EEBE9EA21F973BD50F0 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D7139482FDFD82EEBE9EA21F973BD50F0
+13:04:43	Warning: 	Moved Permanently for www.hardifinserv.in/?wordfence_lh=1&hid=2A4D9A061B58AF601E993A3D41038442
+13:04:43	Warning: 	Redirected link is identical because of 'URL Hack' option: www.hardifinserv.in/?wordfence_lh=1&hid=2A4D9A061B58AF601E993A3D41038442 and https://www.hardifinserv.in/?wordfence_lh=1&hid=2A4D9A061B58AF601E993A3D41038442
+13:04:43	Warning: 	File has moved from www.hardifinserv.in/?wordfence_lh=1&hid=2A4D9A061B58AF601E993A3D41038442 to https://www.hardifinserv.in/?wordfence_lh=1&hid=2A4D9A061B58AF601E993A3D41038442
+13:04:44	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=1E9B2D196BF84F65238E0322F453F962
+13:04:44	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=1E9B2D196BF84F65238E0322F453F962 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D1E9B2D196BF84F65238E0322F453F962
+13:04:49	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=93FB41752122E4E6C145238867CD584D
+13:04:49	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=93FB41752122E4E6C145238867CD584D to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D93FB41752122E4E6C145238867CD584D
+13:04:49	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=B601E3A18559E12EDE5A791D05740980
+13:04:49	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=B601E3A18559E12EDE5A791D05740980 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DB601E3A18559E12EDE5A791D05740980
+13:04:50	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=64BA909A208A41E6C20BE5AC7C1E22D0
+13:04:50	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=64BA909A208A41E6C20BE5AC7C1E22D0 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D64BA909A208A41E6C20BE5AC7C1E22D0
+13:04:51	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2136BD8B88B08CD72026394EF8A0AFC9
+13:04:51	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2136BD8B88B08CD72026394EF8A0AFC9 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2136BD8B88B08CD72026394EF8A0AFC9
+13:04:56	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=B29A6B0A76CB805790163216739E299D
+13:04:56	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=B29A6B0A76CB805790163216739E299D to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DB29A6B0A76CB805790163216739E299D
+13:04:57	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=B342FCC0BC7CEF222DAB20F51D6F2DDB
+13:04:57	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=B342FCC0BC7CEF222DAB20F51D6F2DDB to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DB342FCC0BC7CEF222DAB20F51D6F2DDB
+13:04:57	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=E5ADE4C98DE543A7851524CEC57E4222
+13:04:57	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=E5ADE4C98DE543A7851524CEC57E4222 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DE5ADE4C98DE543A7851524CEC57E4222
+13:04:57	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=6D90F3B1704D3EBEE0C89FE3085323FB
+13:04:57	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=6D90F3B1704D3EBEE0C89FE3085323FB to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D6D90F3B1704D3EBEE0C89FE3085323FB
+13:05:03	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=7FA9391AC0B214CFD412604D4ACAE5FB
+13:05:03	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=7FA9391AC0B214CFD412604D4ACAE5FB to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D7FA9391AC0B214CFD412604D4ACAE5FB
+13:05:03	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=FA51E490E066CDF4C627CE1D38BD6F30
+13:05:03	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=FA51E490E066CDF4C627CE1D38BD6F30 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3DFA51E490E066CDF4C627CE1D38BD6F30
+13:05:03	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=58F17A7D2A191D35908DE2902B7AB54B
+13:05:03	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=58F17A7D2A191D35908DE2902B7AB54B to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D58F17A7D2A191D35908DE2902B7AB54B
+13:05:04	Warning: 	Moved Permanently for https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A4D9A061B58AF601E993A3D41038442
+13:05:04	Warning: 	File has moved from https://www.hardifinserv.in/?wordfence_lh=1%26hid=2A4D9A061B58AF601E993A3D41038442 to https://www.hardifinserv.in/?wordfence_lh=1%26hid%3D2A4D9A061B58AF601E993A3D41038442
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 44 seconds : 1048 links scanned, 757 files written (61236170 bytes overall) [19652414 bytes received at 42354 bytes/sec], 60124867 bytes transferred using HTTP compression in 659 files, ratio 19%, 6.9 requests per connection
+(122 errors, 393 warnings, 0 messages)
